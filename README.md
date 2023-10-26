@@ -9,7 +9,7 @@
 6. In the .zip of the plugin extract everything to the `plugins` folder
 7. Load Euro Truck Simulator 2 / TruckersMP
 #### Video:
-![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/gif_install.gif)
+![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
 
 ## Notes/Info:
 - Wheel Speed, Driving Position and Parked Position Can All Be Changed Inside `\plugins\Animated-Steering-Wheel.txt`
