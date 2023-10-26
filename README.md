@@ -31,4 +31,4 @@
 ## Credit:
 - [Roccovax](https://github.com/dariowouters)
 - [InsaneCallum](https://github.com/Callum-Bell)
-- ![Baldy09](https://github.com/Baldywaldy09)
+- [Baldy09](https://github.com/Baldywaldy09)
