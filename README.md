@@ -6,22 +6,23 @@
 3. Rick click on ETS2 and go to `Manage > Browse Local Files` 
 4. Open Bin > win_x64
 5. Open the `plugins` folder if there is no `plugins` folder create one
-6. In the .zip open the folder `Files` and copy everything to the plugins folder
+6. In the .zip of the plugin extract everything to the `plugins` folder
 7. Load Euro Truck Simulator 2 / TruckersMP
+#### Video:
+![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/gif_install.gif)
 
 ## Notes/Info:
-- Wheel Speed, Driving Position and Parked Position Can All Be Changed Inside `\plugins\AnimatedSteeringWheel.json`
-- After Editing Anything Inside `\plugins\AnimatedSteeringWheel.json` Turn Off The Electric Then Open Console And Type `sdk reload`
-- This Plugin Might Break On Versions Newer Then `1.48.5`
+- Wheel Speed, Driving Position and Parked Position Can All Be Changed Inside `\plugins\Animated-Steering-Wheel.txt`
+- After Editing Anything Inside `\plugins\Animated-Steering-Wheel.txt` Turn Off The Electric/Engine Then Open Console And Type `sdk reload`
 - This Plugin Does **Not** Work Correctly On TMP AV, Skoda And Bus
-- This Plugin Doesn't Support ATS
+- This Plugin Does **Not** Support ATS
 
 ## Config File:
-- The Config File Is At `\plugins\AnimatedSteeringWheel.json`
-- Inside The Config File You Will Have 3 Lines: `speed`, `pos_on` and `pos_off`
+- The Config File Is At `\plugins\Animated-Steering-Wheel.txt`
+- Inside The Config File You Will Have 3 Lines: `speed`, `engine_on` and `engine_off`
   - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
-  - `pos_on` - The Wheel Position When The Electric Is **On**
-  - `pos_off` - The Wheel Position When The Electric IS **Off**
+  - `engine_on` - The Wheel Position When The Electric Is **On**
+  - `engine_off` - The Wheel Position When The Electric IS **Off**
  
 ## Need Help?
 - If You Have Any Problems With This Plugin You Can Contact [**Insanux Support**](https://discord.gg/insanux) And Head To The [**ask-for-help** Channel](https://discord.com/channels/737213060233822269/1032370614738100324)
