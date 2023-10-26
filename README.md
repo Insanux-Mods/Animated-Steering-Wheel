@@ -8,7 +8,7 @@
 5. Open the `plugins` folder if there is no `plugins` folder create one
 6. In the .zip of the plugin extract everything to the `plugins` folder
 7. Load Euro Truck Simulator 2 / TruckersMP
-#### Video:
+
 ![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
 
 ## Notes/Info:
@@ -31,4 +31,4 @@
 ## Credit:
 - [Roccovax](https://github.com/dariowouters)
 - [InsaneCallum](https://github.com/Callum-Bell)
-- [Baldy09](https://github.com/Baldywaldy09)
+- ![Baldy09](https://github.com/Baldywaldy09)
