@@ -17,7 +17,7 @@
 │   eurotrucks2.exe
 │   ...
 │
-└───plugins # create if not exists
+└───plugins # Create the folder, if it does not exist
     │   Animated-Steering-Wheel.dll # copy from release
     └── Animated-Steering-Wheel.txt # copy from release
 ```
