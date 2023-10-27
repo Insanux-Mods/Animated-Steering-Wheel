@@ -11,6 +11,17 @@
 
 ![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
 
+# Correct Folder Structure
+```python
+<game_install_location>/bin/win_x64/
+│   eurotrucks2.exe
+│   ...
+│
+└───plugins # create if not exists
+    │   Animated-Steering-Wheel.dll # copy from release
+    └── Animated-Steering-Wheel.txt # copy from release
+```
+
 ## Notes/Info:
 - Wheel Speed, Driving Position and Parked Position Can All Be Changed Inside `\plugins\Animated-Steering-Wheel.txt`
 - After Editing Anything Inside `\plugins\Animated-Steering-Wheel.txt` Turn Off The Electric/Engine Then Open Console And Type `sdk reload`
