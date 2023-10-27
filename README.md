@@ -11,6 +11,8 @@
 
 ![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMbzdzJd_lw" frameborder="0" allowfullscreen></iframe>
+
 # Correct Folder Structure
 ```python
 <game_install_location>/bin/win_x64/
