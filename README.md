@@ -21,8 +21,8 @@
 - The Config File Is At `\plugins\Animated-Steering-Wheel.txt`
 - Inside The Config File You Will Have 3 Lines: `speed`, `engine_on` and `engine_off`
   - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
-  - `engine_on` - The Wheel Position When The Electric Is **On**
-  - `engine_off` - The Wheel Position When The Electric IS **Off**
+  - `engine_on` - The Wheel Position When The Electric Is **On** *Accepts Any Value Between `-0.2` - `0.8`*
+  - `engine_off` - The Wheel Position When The Electric IS **Off** *Accepts Any Value Between `-0.2` - `0.8`*
  
 ## Need Help?
 - If You Have Any Problems With This Plugin You Can Contact [**Insanux Support**](https://discord.gg/insanux) And Head To The [**ask-for-help** Channel](https://discord.com/channels/737213060233822269/1032370614738100324)
