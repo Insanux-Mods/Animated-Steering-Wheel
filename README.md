@@ -11,7 +11,7 @@
 
 ![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
 
-Youtube Guide: https://www.youtube.com/embed/QMbzdzJd_lw
+Youtube Guide: https://www.youtube.com/watch?v=QMbzdzJd_lw
 
 # Correct Folder Structure
 ```python
