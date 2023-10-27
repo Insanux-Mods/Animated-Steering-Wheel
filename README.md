@@ -1,12 +1,12 @@
 # Animated Steering Wheel For ETS2 / TruckersMP
 
 ## How To Install:
-1. Close ETS2
-2. Open Steam
+1. Open Steam
+2. Close Euro Truck Simulator 2
 3. Rick click on ETS2 and go to `Manage > Browse Local Files` 
-4. Open Bin > win_x64
-5. Open the `plugins` folder if there is no `plugins` folder create one
-6. In the .zip of the plugin extract everything to the `plugins` folder
+4. Open `Bin > win_x64`
+5. Open the `plugins` folder.  If there is no `plugins` folder, create one
+6. Open the .zip from the [Latest Release](https://github.com/Insanux-Mods/Animated-Steering-Wheel/releases/latest) of the plugin, extract everything to the `plugins` folder
 7. Load Euro Truck Simulator 2 / TruckersMP
 
 ![](https://github.com/Insanux-Mods/Animated-Steering-Wheel/blob/main/install.gif)
@@ -34,6 +34,13 @@
   - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
   - `engine_on` - The Wheel Position When The Electric Is **On** *Accepts Any Value Between `-0.2` - `0.8`*
   - `engine_off` - The Wheel Position When The Electric IS **Off** *Accepts Any Value Between `-0.2` - `0.8`*
+```json
+{
+	"speed": 250,
+	"engine_on": 0.0,
+	"engine_off": 0.8
+}
+```
  
 ## Need Help?
 - If You Have Any Problems With This Plugin You Can Contact [**Insanux Support**](https://discord.gg/insanux) And Head To The [**ask-for-help** Channel](https://discord.com/channels/737213060233822269/1032370614738100324)
