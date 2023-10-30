@@ -35,7 +35,7 @@ Youtube Guide: https://www.youtube.com/watch?v=QMbzdzJd_lw
 - Inside The Config File You Will Have 3 Lines: `speed`, `engine_on` and `engine_off`
   - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
   - `engine_on` - The Wheel Position When The Electric Is **On** *Accepts Any Value Between `-0.2` - `0.8`*
-  - `engine_off` - The Wheel Position When The Electric IS **Off** *Accepts Any Value Between `-0.2` - `0.8`*
+  - `engine_off` - The Wheel Position When The Electric Is **Off** *Accepts Any Value Between `-0.2` - `0.8`*
 ```json
 {
 	"speed": 250,
