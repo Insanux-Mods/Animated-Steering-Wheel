@@ -1,4 +1,6 @@
-# Animated Steering Wheel For ETS2 / TruckersMP
+<h1 align="center">
+Animated Steering Wheel For ETS2 / TruckersMP
+</h1>
 
 ## Installation Guide:
 1. Open Steam
