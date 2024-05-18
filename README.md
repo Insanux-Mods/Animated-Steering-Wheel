@@ -33,16 +33,19 @@ Youtube Guide: https://www.youtube.com/watch?v=QMbzdzJd_lw
 - This Plugin Does **Not** Support ATS
 
 ## Config File:
+**Note:** As of the 1.50 plugin update you can now just adjust the wheel from the F4 menu adjusting the config manually is no longer needed
 - The Config File Is At `\plugins\Animated-Steering-Wheel.txt`
-- Inside The Config File You Will Have 3 Lines: `speed`, `engine_on` and `engine_off`
-  - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
-  - `engine_on` - The Wheel Position When The Electric Is **On** *Accepts Any Value Between `-0.2` - `0.8`*
+- Inside The Config File You Will Have 4 Lines: `engine_off`, `engine_on`, `front_back`, `speed`
   - `engine_off` - The Wheel Position When The Electric Is **Off** *Accepts Any Value Between `-0.2` - `0.8`*
+  - `engine_on` - The Wheel Position When The Electric Is **On** *Accepts Any Value Between `-0.2` - `0.8`*
+  - `front_back` - How Close / Far The Wheel Is When The Electric Is **On** *Accepts Any Value [scs max: `-0.5` to `0.5`]*
+  - `speed` - How Quickly The Wheel Moves From On To Off / Off To On [Higher Number The Slower It Moves]
 ```json
 {
-	"speed": 250,
-	"engine_on": 0.0,
-	"engine_off": 0.8
+    "engine_off": 0.8,
+    "engine_on": 0.0,
+    "front_back": 0.0,
+    "speed": 250
 }
 ```
  
