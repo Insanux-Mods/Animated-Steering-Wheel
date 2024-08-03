@@ -5,7 +5,7 @@ Animated Steering Wheel For ETS2 / TruckersMP
 ## Installation Guide:
 1. Open Steam
 2. Close Euro Truck Simulator 2
-3. Rick click on ETS2 and go to `Manage > Browse Local Files` 
+3. Right click on ETS2 and go to `Manage > Browse Local Files` 
 4. Open `Bin > win_x64`
 5. Open the `plugins` folder.  If there is no `plugins` folder, create one
 6. Open the .zip from the [Latest Release](https://github.com/Insanux-Mods/Animated-Steering-Wheel/releases/latest) of the plugin, extract everything to the `plugins` folder
